@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+/* ------------------------------
+   BASE
+--------------------------------*/
+body {
+  font-family: Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scroll suave */
+* {
+  scroll-behavior: smooth;
+}
+
+
+/* ------------------------------
+   NAV LINKS (línea animada)
+--------------------------------*/
+.nav-link {
+  position: relative;
+  transition: 0.3s;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  left: 0;
+  bottom: -6px;
+  background: #0f766e;
+  transition: 0.3s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+
+/* ------------------------------
+   DROPDOWN ITEMS
+--------------------------------*/
+.dropdown-item {
+  display: block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.dropdown-item:hover {
+  background: #f0fdfa;
+  color: #0f766e;
+}
+
+
+/* ------------------------------
+   SCROLL BAR (opcional PRO)
+--------------------------------*/
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0f766e;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #115e59;
+}
+
+
+/* ------------------------------
+   TRANSICIONES GLOBALES
+--------------------------------*/
+a,
+button {
+  transition: all 0.25s ease;
+}
+
+
+/* ------------------------------
+   EFECTOS SUAVES
+--------------------------------*/
+img {
+  transition: transform 0.4s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
+}
