@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-// IMÁGENES (9)
 import img1 from "../../../assets/images/funda/funda1.jpg";
 import img2 from "../../../assets/images/funda/funda2.jpg";
 import img3 from "../../../assets/images/funda/funda3.jpg";
