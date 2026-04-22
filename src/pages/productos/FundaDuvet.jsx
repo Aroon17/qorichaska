@@ -1,15 +1,15 @@
 import { useState } from "react";
 
 // IMÁGENES (9)
-import img1 from "../../assets/images/funda/Funda1.jpg";
-import img2 from "../../assets/images/funda/Funda2.jpg";
-import img3 from "../../assets/images/funda/Funda3.jpg";
-import img4 from "../../assets/images/funda/Funda4.jpg";
-import img5 from "../../assets/images/funda/Funda5.jpg";
-import img6 from "../../assets/images/funda/Funda6.jpg";
-import img7 from "../../assets/images/funda/Funda7.jpg";
-import img8 from "../../assets/images/funda/Funda8.jpg";
-import img9 from "../../assets/images/funda/Funda9.jpg";
+import img1 from "../../assets/images/funda/funda1.jpg";
+import img2 from "../../assets/images/funda/funda2.jpg";
+import img3 from "../../assets/images/funda/funda3.jpg";
+import img4 from "../../assets/images/funda/funda4.jpg";
+import img5 from "../../assets/images/funda/funda5.jpg";
+import img6 from "../../assets/images/funda/funda6.jpg";
+import img7 from "../../assets/images/funda/funda7.jpg";
+import img8 from "../../assets/images/funda/funda8.jpg";
+import img9 from "../../assets/images/funda/funda9.jpg";
 
 function FundaDuvet() {
 
