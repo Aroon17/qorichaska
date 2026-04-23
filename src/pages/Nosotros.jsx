@@ -118,10 +118,10 @@ text-lg
 leading-9
 ">
 
-Somos una empresa especializada en soluciones textiles
-para hoteles, clínicas, instituciones y hogares.
-Ofrecemos productos que combinan diseño, durabilidad
-y altos estándares de calidad.
+Somos una empresa dedicada a brindar soluciones textiles de alta calidad
+para hoteles, clínicas, instituciones y el hogar. Nuestros productos combinan
+diseño, durabilidad y confort, cumpliendo con altos estándares para garantizar
+excelencia en cada detalle.
 
 </p>
 
