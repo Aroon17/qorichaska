@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/almohadas/Almohadas1.jpg";
-import img2 from "../../assets/images/almohadas/Almohadas2.jpg";
-import img3 from "../../assets/images/almohadas/Almohadas3.jpg";
+import img1 from "../../assets/images/almohadas/almohadas1.jpg";
+import img2 from "../../assets/images/almohadas/almohadas2.jpg";
+import img3 from "../../assets/images/almohadas/almohadas3.jpg";
 
 function Almohadas() {
 
