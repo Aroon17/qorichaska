@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 import toallas from "../../assets/images/toallas/toallas1.jpg";
-import sabanas from "../../assets/images/sabanas/sábanas1.jpg";
+import sabanas from "../../assets/images/sabanas/sabanas1.jpg";
 import amenities from "../../assets/images/amenities/amenities1.jpg";
 
 const productos=[
