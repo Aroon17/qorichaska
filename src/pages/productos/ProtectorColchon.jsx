@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/protector/proctetor1.jpg";
-import img2 from "../../assets/images/protector/proctetor2.jpg";
+import img1 from "../../assets/images/protector/protector1.jpg";
+import img2 from "../../assets/images/protector/protector2.jpg";
 
 function ProtectorColchon() {
 
