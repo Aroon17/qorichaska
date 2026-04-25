@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/toallas/Toallas1.jpg";
-import img2 from "../../assets/images/toallas/Toallas2.jpg";
-import img3 from "../../assets/images/toallas/Toallas3.jpg";
-import img4 from "../../assets/images/toallas/Toallas4.jpg";
-import img5 from "../../assets/images/toallas/Toallas5.jpg";
-import img6 from "../../assets/images/toallas/Toallas6.jpg";
+import img1 from "../../assets/images/toallas/toallas1.jpg";
+import img2 from "../../assets/images/toallas/toallas2.jpg";
+import img3 from "../../assets/images/toallas/toallas3.jpg";
+import img4 from "../../assets/images/toallas/toallas4.jpg";
+import img5 from "../../assets/images/toallas/toallas5.jpg";
+import img6 from "../../assets/images/toallas/toallas6.jpg";
 
 function Toallas() {
 

@@ -3,17 +3,17 @@ import { Search } from "lucide-react";
 import { Link } from "react-router-dom";
 
 // IMÁGENES
-import almohadas from "../assets/images/almohadas/Almohadas1.jpg";
-import amenities from "../assets/images/amenities/Amenities1.jpg";
-import batas from "../assets/images/batas/Batas1.jpg";
-import edredones from "../assets/images/edredones/Edredones1.jpg";
-import manta from "../assets/images/manta/Manta1.jpg";
-import piecama from "../assets/images/piecama/Pie1.jpg";
+import almohadas from "../assets/images/almohadas/almohadas1.jpg";
+import amenities from "../assets/images/amenities/amenities1.jpg";
+import batas from "../assets/images/batas/batas1.jpg";
+import edredones from "../assets/images/edredones/edredones1.jpg";
+import manta from "../assets/images/manta/manta1.jpg";
+import piecama from "../assets/images/piecama/pie1.jpg";
 import piso from "../assets/images/piso/Piso1.jpg";
-import protector from "../assets/images/protector/Proctetor1.jpg";
-import sabanas from "../assets/images/sabanas/Sábanas1.jpg";
-import toallas from "../assets/images/toallas/Toallas1.jpg";
-import funda from "../assets/images/funda/Funda1.jpg"; // 👈 NUEVO
+import protector from "../assets/images/protector/proctetor1.jpg";
+import sabanas from "../assets/images/sabanas/sábanas1.jpg";
+import toallas from "../assets/images/toallas/toallas1.jpg";
+import funda from "../assets/images/funda/funda1.jpg";
 
 function Catalogo() {
 
@@ -31,7 +31,7 @@ function Catalogo() {
     { nombre: "Protector de colchón", img: protector, ruta: "/protector-colchon", desc: "Protección e higiene" },
     { nombre: "Sábanas", img: sabanas, ruta: "/sabanas", desc: "Calidad hotelera" },
     { nombre: "Toallas", img: toallas, ruta: "/toallas", desc: "100% algodón" },
-    { nombre: "Funda Duvet", img: funda, ruta: "/funda-duvet", desc: "Elegancia y protección premium" } // 👈 NUEVO
+    { nombre: "Funda Duvet", img: funda, ruta: "/funda-duvet", desc: "Elegancia y protección premium" }
 
   ];
 

@@ -1,18 +1,18 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/amenities/Amenities1.jpg";
-import img2 from "../../assets/images/amenities/Amenities2.jpg";
-import img3 from "../../assets/images/amenities/Amenities3.jpg";
-import img4 from "../../assets/images/amenities/Amenities4.jpg";
-import img5 from "../../assets/images/amenities/Amenities5.jpg";
-import img6 from "../../assets/images/amenities/Amenities6.jpg";
-import img7 from "../../assets/images/amenities/Amenities7.jpg";
-import img8 from "../../assets/images/amenities/Amenities8.jpg";
-import img9 from "../../assets/images/amenities/Amenities9.jpg";
-import img10 from "../../assets/images/amenities/Amenities10.jpg";
-import img11 from "../../assets/images/amenities/Amenities11.jpg";
-import img12 from "../../assets/images/amenities/Amenities12.jpg";
-import img13 from "../../assets/images/amenities/Amenities13.jpg";
+import img1 from "../../assets/images/amenities/amenities1.jpg";
+import img2 from "../../assets/images/amenities/amenities2.jpg";
+import img3 from "../../assets/images/amenities/amenities3.jpg";
+import img4 from "../../assets/images/amenities/amenities4.jpg";
+import img5 from "../../assets/images/amenities/amenities5.jpg";
+import img6 from "../../assets/images/amenities/amenities6.jpg";
+import img7 from "../../assets/images/amenities/amenities7.jpg";
+import img8 from "../../assets/images/amenities/amenities8.jpg";
+import img9 from "../../assets/images/amenities/amenities9.jpg";
+import img10 from "../../assets/images/amenities/amenities10.jpg";
+import img11 from "../../assets/images/amenities/amenities11.jpg";
+import img12 from "../../assets/images/amenities/amenities12.jpg";
+import img13 from "../../assets/images/amenities/amenities13.jpg";
 
 function Amenities() {
 

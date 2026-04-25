@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import edredones from "../../assets/images/edredones/Edredones1.jpg";
+import edredones from "../../assets/images/edredones/edredones1.jpg";
 
 function HotelSection() {
 

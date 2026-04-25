@@ -1,12 +1,12 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/edredones/Edredones1.jpg";
-import img2 from "../../assets/images/edredones/Edredones2.jpg";
-import img3 from "../../assets/images/edredones/Edredones3.jpg";
-import img4 from "../../assets/images/edredones/Edredones4.jpg";
-import img5 from "../../assets/images/edredones/Edredones5.jpg";
-import img6 from "../../assets/images/edredones/Edredones6.jpg";
-import img7 from "../../assets/images/edredones/Edredones7.jpg";
+import img1 from "../../assets/images/edredones/edredones1.jpg";
+import img2 from "../../assets/images/edredones/edredones2.jpg";
+import img3 from "../../assets/images/edredones/edredones3.jpg";
+import img4 from "../../assets/images/edredones/edredones4.jpg";
+import img5 from "../../assets/images/edredones/edredones5.jpg";
+import img6 from "../../assets/images/edredones/edredones6.jpg";
+import img7 from "../../assets/images/edredones/edredones7.jpg";
 
 function Edredones() {
 

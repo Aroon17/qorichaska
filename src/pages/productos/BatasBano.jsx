@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/batas/Batas1.jpg";
-import img2 from "../../assets/images/batas/Batas2.jpg";
-import img3 from "../../assets/images/batas/Batas3.jpg";
+import img1 from "../../assets/images/batas/batas1.jpg";
+import img2 from "../../assets/images/batas/batas2.jpg";
+import img3 from "../../assets/images/batas/batas3.jpg";
 
 function Batas() {
 

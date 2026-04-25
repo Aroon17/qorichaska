@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // COMPONENTES
 import HeaderTop from "./components/layout/HeaderTop";
 import Navbar from "./components/layout/Navbar";
-import ScrollToTop from "./components/ScrollToTop"; // 👈 IMPORTANTE
+import ScrollToTop from "./components/ScrollToTop";
 
 // PÁGINAS PRINCIPALES
 import Home from "./pages/Home";

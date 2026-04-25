@@ -1,9 +1,9 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/manta/Manta1.jpg";
-import img2 from "../../assets/images/manta/Manta2.jpg";
-import img3 from "../../assets/images/manta/Manta3.jpg";
-import img4 from "../../assets/images/manta/Manta4.jpg";
+import img1 from "../../assets/images/manta/manta1.jpg";
+import img2 from "../../assets/images/manta/manta2.jpg";
+import img3 from "../../assets/images/manta/manta3.jpg";
+import img4 from "../../assets/images/manta/manta4.jpg";
 
 function MantaPolar() {
 

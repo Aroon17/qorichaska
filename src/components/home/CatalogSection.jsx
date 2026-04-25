@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
-import almohadas from "../../assets/images/almohadas/Almohadas1.jpg";
-import amenities from "../../assets/images/amenities/Amenities1.jpg";
-import sabanas from "../../assets/images/sabanas/Sábanas1.jpg";
-import toallas from "../../assets/images/toallas/Toallas1.jpg";
+import almohadas from "../../assets/images/almohadas/almohadas1.jpg";
+import amenities from "../../assets/images/amenities/amenities1.jpg";
+import sabanas from "../../assets/images/sabanas/sábanas1.jpg";
+import toallas from "../../assets/images/toallas/toallas1.jpg";
 
 const data = [
 {

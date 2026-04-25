@@ -1,12 +1,12 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/piecama/Pie1.jpg";
-import img2 from "../../assets/images/piecama/Pie2.jpg";
-import img3 from "../../assets/images/piecama/Pie3.jpg";
-import img4 from "../../assets/images/piecama/Pie4.jpg";
-import img5 from "../../assets/images/piecama/Pie5.jpg";
-import img6 from "../../assets/images/piecama/Pie6.jpg";
-import img7 from "../../assets/images/piecama/Pie7.jpg";
+import img1 from "../../assets/images/piecama/pie1.jpg";
+import img2 from "../../assets/images/piecama/pie2.jpg";
+import img3 from "../../assets/images/piecama/pie3.jpg";
+import img4 from "../../assets/images/piecama/pie4.jpg";
+import img5 from "../../assets/images/piecama/pie5.jpg";
+import img6 from "../../assets/images/piecama/pie6.jpg";
+import img7 from "../../assets/images/piecama/pie7.jpg";
 
 function PieDeCama() {
 

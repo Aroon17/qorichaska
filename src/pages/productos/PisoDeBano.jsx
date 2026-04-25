@@ -1,9 +1,9 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/piso/Piso1.jpg";
-import img2 from "../../assets/images/piso/Piso2.jpg";
-import img3 from "../../assets/images/piso/Piso3.jpg";
-import img4 from "../../assets/images/piso/Piso4.jpg";
+import img1 from "../../assets/images/piso/piso1.jpg";
+import img2 from "../../assets/images/piso/piso2.jpg";
+import img3 from "../../assets/images/piso/piso3.jpg";
+import img4 from "../../assets/images/piso/piso4.jpg";
 
 function PisoDeBano() {
 
