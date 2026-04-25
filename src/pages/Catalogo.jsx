@@ -9,7 +9,7 @@ import batas from "../assets/images/batas/batas1.jpg";
 import edredones from "../assets/images/edredones/edredones1.jpg";
 import manta from "../assets/images/manta/manta1.jpg";
 import piecama from "../assets/images/piecama/pie1.jpg";
-import piso from "../assets/images/piso/Piso1.jpg";
+import piso from "../assets/images/piso/piso1.jpg";
 import protector from "../assets/images/protector/proctetor1.jpg";
 import sabanas from "../assets/images/sabanas/sábanas1.jpg";
 import toallas from "../assets/images/toallas/toallas1.jpg";

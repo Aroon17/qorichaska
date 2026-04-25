@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import img1 from "../../assets/images/sabanas/sábanas1.jpg";
-import img2 from "../../assets/images/sabanas/sábanas2.jpg";
-import img3 from "../../assets/images/sabanas/sábanas3.jpg";
-import img4 from "../../assets/images/sabanas/sábanas4.jpg";
-import img5 from "../../assets/images/sabanas/sábanas5.jpg";
-import img6 from "../../assets/images/sabanas/sábanas6.jpg";
+import img1 from "../../assets/images/sabanas/sabanas1.jpg";
+import img2 from "../../assets/images/sabanas/sabanas2.jpg";
+import img3 from "../../assets/images/sabanas/sabanas3.jpg";
+import img4 from "../../assets/images/sabanas/sabanas4.jpg";
+import img5 from "../../assets/images/sabanas/sabanas5.jpg";
+import img6 from "../../assets/images/sabanas/sabanas6.jpg";
 
 function Sabanas() {
 
