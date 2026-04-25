@@ -10,8 +10,8 @@ import edredones from "../assets/images/edredones/edredones1.jpg";
 import manta from "../assets/images/manta/manta1.jpg";
 import piecama from "../assets/images/piecama/pie1.jpg";
 import piso from "../assets/images/piso/piso1.jpg";
-import protector from "../assets/images/protector/proctetor1.jpg";
-import sabanas from "../assets/images/sabanas/sábanas1.jpg";
+import protector from "../assets/images/protector/protector1.jpg";
+import sabanas from "../assets/images/sabanas/sabanas1.jpg";
 import toallas from "../assets/images/toallas/toallas1.jpg";
 import funda from "../assets/images/funda/funda1.jpg";
 
@@ -29,7 +29,7 @@ function Catalogo() {
     { nombre: "Pie de cama", img: piecama, ruta: "/pie-de-cama", desc: "Diseño decorativo" },
     { nombre: "Piso de baño", img: piso, ruta: "/piso-de-bano", desc: "Alta absorción" },
     { nombre: "Protector de colchón", img: protector, ruta: "/protector-colchon", desc: "Protección e higiene" },
-    { nombre: "Sábanas", img: sabanas, ruta: "/sabanas", desc: "Calidad hotelera" },
+    { nombre: "Sabanas", img: sabanas, ruta: "/sabanas", desc: "Calidad hotelera" },
     { nombre: "Toallas", img: toallas, ruta: "/toallas", desc: "100% algodón" },
     { nombre: "Funda Duvet", img: funda, ruta: "/funda-duvet", desc: "Elegancia y protección premium" }
 
