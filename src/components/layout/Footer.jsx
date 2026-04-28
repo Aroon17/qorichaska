@@ -183,7 +183,7 @@ Qorichaska Textil
 </p>
 
 <p>
-CKT Perú S.A.C. — RUC: 2052243737
+CKT Perú S.A.C. — RUC: 20522243737
 </p>
 
 <p>
