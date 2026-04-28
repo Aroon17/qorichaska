@@ -121,7 +121,7 @@ Completa el formulario y serás redirigido 📲
 
 <div className="flex gap-4">
 <Mail className="text-[#0f766e]"/>
-<p>ventas@qorichaska.com</p>
+<p>qorichaskaperu@hotmail.com</p>
 </div>
 
 <div className="flex gap-4">
